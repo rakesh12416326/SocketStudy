@@ -1,5 +1,5 @@
 # Ex.No:1a  			Study of Socket Programming
-## date:24/10/25
+## date:17/10/2026
 ## Aim: 
 To perform a study on Socket Programming
 ## Introduction:
